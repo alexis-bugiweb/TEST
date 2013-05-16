@@ -97,3 +97,6 @@ sub make_stats
     
     see(\%result);
 }
+
+# héhéhé
+return 1;
