@@ -8,6 +8,9 @@ use tools; # home-made package for tools
 # use migcrender;
 # use Data::Dumper;
 
+#add a comm ?
+
+
 $cgi = new CGI;
 $sw = get_quoted('sw') || "";
 my $extlink = get_quoted('extlink');
